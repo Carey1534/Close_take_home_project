@@ -1,6 +1,8 @@
 Project Overview :
     This project uses a Python script to import contact data from a csv file using the Close API, then prints out a new state-revenue contact csv file.
 
+Watch Loom at : https://www.loom.com/share/8abb1ae8b5824b358aa3d0b3866e8fc8
+
 How to Run :
 - Place 'company_leads.csv' in project folder
 - Run 'python lead_segmentation.py' 
@@ -57,4 +59,5 @@ Future Improvements with more time :
 - In depth testing 
 - More robust validation code for incoming data
 - Replace one long function with more small functions to make for easier troubleshooting
+- Clean up variable and function names
 
