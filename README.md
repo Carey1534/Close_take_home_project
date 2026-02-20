@@ -1,6 +1,10 @@
 Project Overview :
     This project uses a Python script to import contact data from a csv file using the Close API, then prints out a new state-revenue contact csv file.
 
+How to Run :
+- Place 'company_leads.csv' in project folder
+- Run 'python lead_segmentation.py' 
+
 Script Explained :
 - Reads CSV file
 - Validates each contact, verifying no missing or formatted data
